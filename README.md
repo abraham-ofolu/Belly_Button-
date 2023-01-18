@@ -56,5 +56,3 @@ Adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/ Links to an 
 You will need to modify the example gauge code to account for values ranging from 0 through 9.
 
 Update the chart whenever a new sample is selected.
-
-Weekly Washing Frequency Gauge
