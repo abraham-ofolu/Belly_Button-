@@ -1,6 +1,5 @@
-//Use the D3 library to read in samples.json from the URL https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json
-
-const DataSamples = "https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json";
+//Use the D3 library to read in samples.json from the URL samples.json file
+const DataSamples = "./samples.json";
 
 //dropdown menu
 function DropDownFunction() {
